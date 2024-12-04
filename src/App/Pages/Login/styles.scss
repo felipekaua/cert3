@@ -1,0 +1,45 @@
+.pageContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+
+    .accountContainer{
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        margin: auto;
+        width: 25%;
+
+        .inputContainer{
+            display: flex;
+            flex-direction: column;
+
+            input{
+                border: 1px solid grey;
+                padding: 1vh;
+                border-radius: 1vh;
+                margin-bottom: 1vh;
+            }
+        }
+        button{
+            border-radius: 1vh;
+            margin-bottom: 1vh;
+            padding: 1vh;
+            color: white;
+            background-color: #BF7530;
+            border: none;
+            &:hover{
+                cursor: pointer;
+            }
+        }
+        h3{
+            text-align: center;
+        }
+    }
+
+    img{
+        border-radius: 4vh 0px 0 4vh;
+        user-select: none;
+    }
+}
