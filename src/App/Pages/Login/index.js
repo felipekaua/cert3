@@ -36,12 +36,13 @@ const Login = () => {
           draggable: true,
           progress: undefined,
           theme: "light",
-          });       
+          });
+        setLogin(true) 
       })
       .catch(()=>{
-        toast.error('Essa conta já Existe!', {
+        toast.error('Erro ao Cadastrar! Verifique se os dados foram preenchidos corretamente', {
           position: "top-center",
-          autoClose: 1000,
+          autoClose: 3000,
           hideProgressBar: false,
           closeOnClick: true,
           pauseOnHover: true,
@@ -95,6 +96,7 @@ const Login = () => {
               <label htmlFor="email">Email</label>
               <input id="email" placeholder="Insira seu e-mail..." type="text" onChange={(e)=>{setEmail(e.target.value)}} />
               <label htmlFor="password">Senha</label>
+              <h5>mínimo de 6 caracteres</h5>
               <input id="password" placeholder="Insira sua senha..." type="text" onChange={(e)=>{setPassword(e.target.value)}} />
             </div>
             <button onClick={Register}>Cadastrar</button>
