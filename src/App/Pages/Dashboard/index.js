@@ -38,7 +38,7 @@ const Dashboard = () => {
 
       refreshPosts();
       
-    });
+    },[]);
 
     function resetCamps(){
       document.getElementById("title").value = "";
