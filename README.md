@@ -95,4 +95,6 @@ Para simular ações de moderadores, será necessário configurar permissões es
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues ou enviar pull requests.
 
+---
+
 Agradecemos sua visita e colaboração com o projeto Meninas Digitais! 💻✨
