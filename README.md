@@ -26,7 +26,7 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
   ```bash
   npm install
 
-### Funcionalidades Desenvolvidas
+## Funcionalidades Desenvolvidas
 - **Registro de Ideias**
   - Usuários podem submeter propostas de forma simples e intuitiva, armazenando as submissões no banco de dados para avaliação.
 
@@ -39,10 +39,10 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
 - **Exclusão de Ideias**
   - Apenas moderadores podem remover propostas inadequadas ou desatualizadas do sistema.
 
-### Objetivo do Sistema
+## Objetivo do Sistema
 Criar um ambiente colaborativo e acessível para estimular o interesse feminino em tecnologia e ciências, promovendo a inclusão e a diversidade por meio de propostas inovadoras.
 
-### Instruções para Configuração e Execução
+## Instruções para Configuração e Execução
 - **Banco de Dados**
   - Acesse o console do Firebase e crie um projeto.
   - Configure as regras de acesso ao banco de dados de acordo com as permissões desejadas.
@@ -67,7 +67,7 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
   npm start
   ```
 
-### Testar o Sistema
+## Testar o Sistema
 - **Cadastro de Usuário**
   - Cadastre uma nova conta na tela inicial ou use uma conta já existente.
     
@@ -80,18 +80,18 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
 - **Exclusão (Apenas Moderadores)**
   - Faça login como moderador para excluir propostas.
 
-### Contas de Acesso
+## Contas de Acesso
 Usuários podem se cadastrar diretamente no sistema para acessar suas funcionalidades.
 Para simular ações de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.
 
-### Equipe
+## Equipe
 - **Equipe 7**
 
   - Breno Rodrigues Lobo de Araújo (2312999)
   - Felipe Kauã de Lima (2268183)
   - Jhonatan Bruno Viza Atahuichy (2349752)
 
-### Contribuições
+## Contribuições
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues ou enviar pull requests.
 
