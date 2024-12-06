@@ -1,7 +1,6 @@
 # Banco de Ideias - Meninas Digitais
 
-Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvolvido para o projeto **Meninas Digitais**. A aplicação tem como objetivo incentivar a participação de meninas e mulheres nas áreas de Computação e STEM por meio do envio, organização e gerenciamento de ideias inovadoras.
-
+Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvolvido para o projeto **Meninas Digitais**. A aplicação tem como objetivo incentivar a participação de meninas e mulheres nas áreas de Computação e STEM por meio do envio, organização e gerenciamento de ideias inovadoras.<br>
 
 ## Ferramentas Utilizadas
 
@@ -12,7 +11,7 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
 
 - **Node.js**  
   - Versão mais recente  
-  - [https://nodejs.org/en/](https://nodejs.org/en/)
+  - [https://nodejs.org/en/](https://nodejs.org/en/)<br>
 
 
 ### Banco de Dados
@@ -25,7 +24,7 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
   Para instalá-las, execute o comando:  
   ```bash
   npm install
-
+<br>
 
 ## Funcionalidades Desenvolvidas
 - **Registro de Ideias**
@@ -38,11 +37,11 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
   - Ideias são organizadas automaticamente pelo número de votos recebidos.
 
 - **Exclusão de Ideias**
-  - Apenas moderadores podem remover propostas inadequadas ou desatualizadas do sistema.
+  - Apenas moderadores podem remover propostas inadequadas ou desatualizadas do sistema.<br>
 
 
 ## Objetivo do Sistema
-Criar um ambiente colaborativo e acessível para estimular o interesse feminino em tecnologia e ciências, promovendo a inclusão e a diversidade por meio de propostas inovadoras.
+Criar um ambiente colaborativo e acessível para estimular o interesse feminino em tecnologia e ciências, promovendo a inclusão e a diversidade por meio de propostas inovadoras.<br>
 
 
 ## Instruções para Configuração e Execução
@@ -69,7 +68,7 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
   ```bash
   npm start
   ```
-
+<br>
 
 ## Testar o Sistema
 - **Cadastro de Usuário**
@@ -86,7 +85,7 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
 
 ## Contas de Acesso
 Usuários podem se cadastrar diretamente no sistema para acessar suas funcionalidades.
-Para simular ações de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.
+Para simular ações de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.<br>
 
 
 ## Equipe
@@ -94,7 +93,7 @@ Para simular ações de moderadores, será necessário configurar permissões es
 
   - Breno Rodrigues Lobo de Araújo (2312999)
   - Felipe Kauã de Lima (2268183)
-  - Jhonatan Bruno Viza Atahuichy (2349752)
+  - Jhonatan Bruno Viza Atahuichy (2349752)<br>
 
 
 ## Contribuições
@@ -103,4 +102,4 @@ Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ---
 
-Agradecemos sua visita e colaboração com o projeto Meninas Digitais! 💻✨
+<br>Agradecemos sua visita e colaboração com o projeto Meninas Digitais! 💻✨
