@@ -51,7 +51,7 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
 - **Executar o Sistema**
   - Clone este repositório:
   ```bash
-  git clone https://github.com/seu-usuario/banco-de-ideias.git
+  git clone https://github.com/felipekaua/cert3
   ```
   - Acesse o diretório do projeto:
   ```bash
