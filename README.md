@@ -65,7 +65,9 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
   ```bash
   npm start
   ```
-
+- **Vídeo de Instrução**
+  - [https://drive.google.com/file/d/1V7rSuXcAPHSxZb0Ya5sWzn_ZRb2ih2jR/view?usp=drive_link](https://drive.google.com/file/d/1V7rSuXcAPHSxZb0Ya5sWzn_ZRb2ih2jR/view?usp=drive_link)
+ 
 ## Testar o Sistema
 - **Cadastro de Usuário**
   - Cadastre uma nova conta na tela inicial ou use uma conta já existente.
