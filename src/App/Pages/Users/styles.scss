@@ -1,0 +1,78 @@
+.usersContainer{
+    width: 100vw;
+    height: 100vh;
+    background-color: #F7F3F5;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+    header{
+        cursor: pointer;
+        width: 100%;
+        height: 15vh;
+        background-color: #D7B5AA;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img{
+            user-select: none;
+            &:first-of-type{
+                height: 10vh;
+                width: 10vh;
+                border-radius: 50px;
+                position: absolute;
+            }
+            &:last-of-type{
+                height: 4vh;
+                width: 4vh;
+                margin-right: 10vh;
+                position: absolute;
+                right: 0;
+                color: white;
+                filter: invert(1);
+                &:hover{
+                    cursor: pointer;
+                }
+            }
+            
+        }
+    }
+    .userWrapper{
+        margin: auto;
+        margin-top: 10vh;
+        margin-bottom: 10vh;
+        height: 65vh;
+        width: 40vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        a{
+            color: #BF7530;
+            width: 100%;
+            text-align: left;
+        }
+        input{
+            width: 100%;
+            margin-bottom: 1vh;
+            padding: 1vh;
+        }
+        .userListContainer{
+            margin: auto;
+            overflow-y: scroll;
+            height: 55vh;
+            width: 40vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+    
+            div{
+                display: flex;
+                width: 100%;
+                justify-content: space-between;
+                padding: 1vh;
+                border-bottom: 1px solid #D7B5AA;
+            }
+        }
+    }
+}

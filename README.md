@@ -53,10 +53,6 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
   ```bash
   git clone https://github.com/felipekaua/cert3
   ```
-  - Acesse o diretório do projeto:
-  ```bash
-  cd banco-de-ideias
-  ```
   - Instale as dependências:
   ```bash
   npm install
