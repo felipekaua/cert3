@@ -78,8 +78,8 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
   - Faça login como moderador para excluir propostas.
 
 ## Contas de Acesso
-Usuários podem se cadastrar diretamente no sistema para acessar suas funcionalidades.
-Para simular ações de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.
+Os usuários podem se cadastrar diretamente no sistema para ter acesso a suas funcionalidades.
+Para simular ações/atividades de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.
 
 ## Equipe
 - **Equipe 7**
