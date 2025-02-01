@@ -38,9 +38,20 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
 - **Organização por Votos**
   - Ideias são organizadas automaticamente pela data de submissão e número de votos recebidos.
 
-- **Exclusão de Ideias**
-  - Apenas moderadores e administradores podem remover propostas inadequadas ou desatualizadas do sistema.
+- **Comentários**
+  - Usuários podem compartilhar suas opiniões das ideais submetidas no sistema e também deletá-las.
 
+- **Exclusão de Ideias e Comentários**
+  - Apenas moderadores e administradores podem remover propostas inadequadas ou desatualizadas do sistema.
+  - Apenas moderadores e administradores podem deletar comentários de qualquer usuário.
+
+## Funcionalidades Exclusivas aos Administradores
+- **Alteração de cargos**
+  - O adm pode alterar os cargos de qualquer usuário cadastrado.
+
+- **Fechamento do Fórum**
+  - O adm pode fechar o fórum, o que permite ter acesso a ideia mais votada.
+ 
 ## Objetivo do Sistema
 Criar um ambiente colaborativo e acessível para estimular o interesse feminino em tecnologia e ciências, promovendo a inclusão e a diversidade por meio de propostas inovadoras.
 
@@ -76,7 +87,7 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
     
 - **Votação e Organização**
   - Vote em ideias e observe a ordenação automática por popularidade.
-    
+
 - **Exclusão (Apenas Moderadores)**
   - Faça login como moderador para excluir propostas.
 
