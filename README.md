@@ -6,17 +6,20 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
 
 ### Desenvolvimento
 - **Visual Studio Code**  
-  - Versão mais recente  
+  - 1.96.4
   - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 - **Node.js**  
-  - Versão mais recente  
+  - 20.12.2 
   - [https://nodejs.org/en/](https://nodejs.org/en/)<br>
 
+- **Git**  
+  - 2.38.1 
+  - [https://git-scm.com/](https://git-scm.com/)<br>
 
 ### Banco de Dados
 - **Firebase**  
-  - Versão mais recente  
+  - Versão Live (Backend as a service)
   - [https://firebase.google.com/?hl=pt-br](https://firebase.google.com/?hl=pt-br)
 
 ### Bibliotecas e Ferramentas Complementares
@@ -33,10 +36,10 @@ Este repositório contém o código-fonte do sistema de Banco de Ideias, desenvo
   - Usuários podem votar nas propostas mais interessantes, destacando as mais relevantes.
 
 - **Organização por Votos**
-  - Ideias são organizadas automaticamente pelo número de votos recebidos.
+  - Ideias são organizadas automaticamente pela data de submissão e número de votos recebidos.
 
 - **Exclusão de Ideias**
-  - Apenas moderadores podem remover propostas inadequadas ou desatualizadas do sistema.
+  - Apenas moderadores e administradores podem remover propostas inadequadas ou desatualizadas do sistema.
 
 ## Objetivo do Sistema
 Criar um ambiente colaborativo e acessível para estimular o interesse feminino em tecnologia e ciências, promovendo a inclusão e a diversidade por meio de propostas inovadoras.
@@ -79,7 +82,11 @@ Criar um ambiente colaborativo e acessível para estimular o interesse feminino 
 
 ## Contas de Acesso
 Os usuários podem se cadastrar diretamente no sistema para ter acesso a suas funcionalidades.
-Para simular ações/atividades de moderadores, será necessário configurar permissões específicas no Firebase para um usuário.
+Para adquirir permissões de moderador ou administrador, será necessário a elevação do cargo por outro administrador.
+
+- **Conta de Administrador padrão**
+  - email: email@email.com
+  - senha: 123456
 
 ## Equipe
 - **Equipe 7**
